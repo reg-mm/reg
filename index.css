@@ -8,7 +8,7 @@
   
   .content {
     text-align: center;
-    color: red;
+    color: rgb(30, 218, 43);
     padding: 20px;
     display: flex;
     flex-direction: column;
